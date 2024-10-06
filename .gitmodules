@@ -1,0 +1,6 @@
+[submodule "FE"]
+	path = FE
+	url = https://github.com/KovskySpring/NASA-Space-Apps-Challenge-FE.git
+[submodule "BE"]
+	path = BE
+	url = https://github.com/RinRin98/BE_NasaSpaceApps_Hackathon_2024.git
