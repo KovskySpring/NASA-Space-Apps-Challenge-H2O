@@ -10,3 +10,4 @@ You can view a recording of our demos prototype and pitch here:
 * [Mobile demo video](https://drive.google.com/file/d/1SVXFdrvQMX5MzAn8pppP2sZXxAq8S_Rd/view?usp=drive_link)
 * [Desktop demo video](https://drive.google.com/file/d/1Pslfmy4sT-zXfjQxKCIY5SEK2SVh1SSt/view?usp=drive_link)
 * [Pitch video](https://drive.google.com/file/d/16n57utpN_QvU_5mMYDqoZ-bGBGvfhWMM/view?usp=drive_link)
+* [Presentation slides](https://www.canva.com/design/DAGSx4AWeBY/zNrrH1r52XNKC3IhBm1wdw/edit)
