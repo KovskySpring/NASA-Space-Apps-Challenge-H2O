@@ -6,4 +6,7 @@ Nowadays, it is tough for farmers to thrive in their industry due to volatile cl
 
 ## Demo
 
-You can view a recording of our demo prototype and pitch [here](https://drive.google.com/drive/folders/1PaiQIKxdreYijDcXOk4FALnDAmAwWFFw?usp=sharing)
+You can view a recording of our demos prototype and pitch here:
+* [Mobile demo video](https://drive.google.com/file/d/1SVXFdrvQMX5MzAn8pppP2sZXxAq8S_Rd/view?usp=drive_link)
+* [Desktop demo video](https://drive.google.com/file/d/1Pslfmy4sT-zXfjQxKCIY5SEK2SVh1SSt/view?usp=drive_link)
+* [Pitching recording](https://drive.google.com/file/d/1_XAlygdExTSO0DGS4UevJdL7ZpccVa_u/view?usp=drive_link)
